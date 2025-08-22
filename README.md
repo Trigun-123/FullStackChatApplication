@@ -14,9 +14,7 @@ This project demonstrates **full-stack development skills** with modern technolo
 
 
 ## 🛠️ Tech Stack
-### Frontend:
 - **React.js**
-### Backend:
 - **Node.js**
 - **Express.js**
 - **MongoDB**
