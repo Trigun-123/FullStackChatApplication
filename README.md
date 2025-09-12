@@ -1,4 +1,4 @@
-# 💬 FullStack Chat Application
+# 💬 QuickChat
 A real-time chat application built with the **MERN stack** and **Socket.io** for seamless, instant messaging.  
 This project demonstrates **full-stack development skills** with modern technologies, authentication, and real-time communication.
 
