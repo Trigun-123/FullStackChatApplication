@@ -20,4 +20,10 @@ This project demonstrates **full-stack development skills** with modern technolo
 - **MongoDB**
 - **Socket.io**
 
+
+## 📸 Screenshots
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/354abbb7-4189-41a5-90c7-076d9691575e" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/6af4bdca-6fad-44ee-972f-28f169132e42" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/3207a3ce-3089-463e-a40a-1de28448375c" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/f2046631-38c6-4941-98bd-63f05c72f6ec" />
   
